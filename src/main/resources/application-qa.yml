@@ -1,0 +1,4 @@
+guru:
+  username: ymlqa-user
+  password: ymlqa-password
+  jdbcurl: ymlqa-url
