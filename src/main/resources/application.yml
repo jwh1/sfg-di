@@ -3,7 +3,7 @@ spring:
     active:
       - dog
       - ES
-      - prod
+      - dev
 guru:
   username: yml-user
   password: yml-password
